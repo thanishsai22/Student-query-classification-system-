@@ -1,0 +1,21 @@
+Token No,Date,Year,Student ID,Email,Grievance Category,Category,Counsellor Name,Issue Resolver Name,Issue Given Date,Days to Resolve,Issue Resolved Status
+51001,10/1/2021,3,180030001,student1@university.edu,Library book unavailable,Library Issues,Dr. A,Librarian,10/1/2021,3,Resolved
+51002,10/2/2021,3,180030002,student2@university.edu,Gradesheet not provided,Examination Section,Dr. B,Exam Office,10/1/2021,5,Pending
+51003,10/3/2021,4,180030003,student3@university.edu,Timetable conflict,Scheduling,Dr. C,Academic Coordinator,10/1/2021,2,Resolved
+51004,10/4/2021,2,180030004,student4@university.edu,Need career guidance,Career Guidance,Dr. D,Career Advisor,10/1/2021,4,Pending
+51005,10/5/2021,4,180030005,student5@university.edu,Library fine issue,Library Issues,Dr. E,Librarian,10/1/2021,3,Resolved
+51006,10/6/2021,2,180030006,student6@university.edu,Transport schedule issue,Transport Issues,Dr. A,Transport Admin,10/1/2021,6,Pending
+51007,10/7/2021,3,180030007,student7@university.edu,Hostel food quality poor,Hostel Issues,Dr. B,Hostel Warden,10/1/2021,4,Resolved
+51008,10/8/2021,4,180030008,student8@university.edu,Exam dates overlapping,Examination Section,Dr. C,Exam Office,10/1/2021,5,Pending
+51009,10/9/2021,1,180030009,student9@university.edu,Need additional lab sessions,Academics,Dr. D,Lab Incharge,10/1/2021,3,Resolved
+51010,10/10/2021,2,180030010,student10@university.edu,Lost my ID card,Administration,Dr. E,Admin Office,10/1/2021,7,Pending
+51011,10/11/2021,3,180030011,student11@university.edu,Internship approval delay,Career Guidance,Dr. A,Career Office,10/1/2021,2,Resolved
+51012,10/12/2021,3,180030012,student12@university.edu,Sports event schedule clash,Sports Issues,Dr. B,Sports Coordinator,10/1/2021,3,Pending
+51013,10/13/2021,4,180030013,student13@university.edu,Scholarship application issue,Scholarship Issues,Dr. C,Finance Office,10/1/2021,6,Resolved
+51014,10/14/2021,2,180030014,student14@university.edu,Lab equipment not working,Lab Issues,Dr. D,Lab Incharge,10/1/2021,2,Pending
+51015,10/15/2021,1,180030015,student15@university.edu,More practical sessions needed,Academics,Dr. E,Professor,10/1/2021,4,Resolved
+51016,10/16/2021,3,180030016,student16@university.edu,Unfair attendance marking,Attendance Issues,Dr. A,Attendance Office,10/1/2021,5,Pending
+51017,10/17/2021,2,180030017,student17@university.edu,WiFi not working in hostel,IT Issues,Dr. B,IT Support,10/1/2021,3,Resolved
+51018,10/18/2021,4,180030018,student18@university.edu,Counseling session request,Counseling,Dr. C,Counseling Team,10/1/2021,2,Pending
+51019,10/19/2021,1,180030019,student19@university.edu,Issue with semester fee payment,Fee Payment,Dr. D,Accounts Office,10/1/2021,7,Resolved
+51020,10/20/2021,2,180030020,student20@university.edu,Course material unavailable online,Academics,Dr. E,Professor,10/1/2021,3,Pending
